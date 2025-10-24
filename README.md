@@ -38,5 +38,12 @@ I use the following technologies across projects:
 |----------|-------------|
 | 🎬 **Netflix Data Analysis** | Insights into content type, country distribution, and trends over time. |
 | 🏨 **Hotel Booking Analysis** | Cancellation patterns, ADR trends, and agent performance. |
+| 💼 **Data Science Jobs Analysis** | Salary insights, demand by country, and top skills in the data industry. |
 
+---
+
+## 🚀 How to Use
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/data-analysis.git
 
