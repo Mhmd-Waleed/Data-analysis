@@ -35,7 +35,8 @@ I use the following technologies across projects:
 ## 📂 Projects Included
 
 | Project | Description |
-|----------|--------------|
-
+|----------|-------------|
 | 🎬 **Netflix Data Analysis** | Insights into content type, country distribution, and trends over time. |
 | 🏨 **Hotel Booking Analysis** | Cancellation patterns, ADR trends, and agent performance. |
+
+
