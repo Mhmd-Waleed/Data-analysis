@@ -39,6 +39,7 @@ I use the following technologies across projects:
 | 🎬 **Netflix Data Analysis** | Insights into content type, country distribution, and trends over time. |
 | 🏨 **Hotel Booking Analysis** | Cancellation patterns, ADR trends, and agent performance. |
 | 💼 **Data Science Jobs Analysis** | Salary insights, demand by country, and top skills in the data industry. |
+|☎️ **Telco-Customer Analysis** | Customer demographics, service usage, and billing behavior insights. |
 
 ---
 
