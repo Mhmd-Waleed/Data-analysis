@@ -1,12 +1,13 @@
 ## 📞 Telco-Customer Analysis
+---
 
-📌 Overview
-
+## 📌 Overview
+---
 This project analyzes the Telco-Customer dataset, which contains information about telecom customers — including their demographics, services, payment methods, and total charges.
 The goal is to uncover patterns in customer behavior, service usage, and billing trends through data cleaning, visualization, and correlation analysis.
 
-⚙️ Steps
-
+## ⚙️ Steps
+---
 Import Libraries
 
 Load Data
@@ -17,7 +18,8 @@ Clean Data
 
 Answer the Questions (EDA & Visualization)
 
-❓ Key Questions Explored
+---
+## ❓ Key Questions Explored
 
 What is the gender distribution among customers?
 
@@ -31,15 +33,19 @@ How many customers don’t have a phone service?
 
 Is there a relationship between Total Charges and Multiple Lines?
 
-📊 Insights
-#	Insight
+## 📊 Insights
+---
+
 1	Men represent about 50.4% of the customers.
 2	Fiber Optic is the most common Internet Service (~44%).
 3	The total charges amount to ≈ 16,056,168.7.
 4	The most used Payment Method is Electronic Check.
 5	Around 10% of customers don’t have a phone service.
 6	There’s a moderate positive correlation between having multiple lines and total charges.
-🧩 Tools Used
+
+---
+## 🧩 Tools Used
+---
 
 Python 🐍
 
@@ -49,7 +55,8 @@ Matplotlib & Seaborn → Data visualization
 
 Scikit-learn (LabelEncoder) → Encoding categorical data
 
-📈 Visuals
+## 📈 Visuals
+---
 
 Heatmap for missing values
 
@@ -63,7 +70,8 @@ Donut chart for phone service
 
 Heatmap for correlation between total charges and multiple lines
 
-🧠 Key Skills Demonstrated
+## 🧠 Key Skills Demonstrated
+---
 
 Data Cleaning & Preprocessing
 
@@ -75,7 +83,8 @@ Encoding Categorical Features
 
 Correlation Analysis & Insight Communication
 
-👨‍💻 Author
+## 👨‍💻 Author
+---
 
 Mohammed Waleed
 📧 mohammed.waleed1121@gmail.com
