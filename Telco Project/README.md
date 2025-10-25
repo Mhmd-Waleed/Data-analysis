@@ -1,4 +1,5 @@
-📞 Telco-Customer Analysis
+## 📞 Telco-Customer Analysis
+
 📌 Overview
 
 This project analyzes the Telco-Customer dataset, which contains information about telecom customers — including their demographics, services, payment methods, and total charges.
