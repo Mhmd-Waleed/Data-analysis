@@ -40,7 +40,7 @@ I use the following technologies across projects:
 | 🏨 **Hotel Booking Analysis** | Cancellation patterns, ADR trends, and agent performance. |
 | 💼 **Data Science Jobs Analysis** | Salary insights, demand by country, and top skills in the data industry. |
 |☎️ **Telco-Customer Analysis** | Customer demographics, service usage, and billing behavior insights. |
-
+|🧑‍💼 **HR Employee Attrition Analysis** | Understanding employee turnover, salaries, and retention factors. |
 ---
 
 ## 🚀 How to Use
